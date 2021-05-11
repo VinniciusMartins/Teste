@@ -1,26 +1,26 @@
 [
   {
-    "qtdBookings": 4,
-    "qtdConfirmations": 4
+    "x": 4,
+    "y": 4
   },
   {
-    "qtdBookings": 13,
-    "qtdConfirmations": 13
+    "x": 13,
+    "y": 13
   },
   {
-    "qtdBookings": 4,
-    "qtdConfirmations": 4
+    "x": 4,
+    "y": 4
   },
   {
-    "qtdBookings": 4,
-    "qtdConfirmations": 4
+    "x": 4,
+    "y": 4
   },
   {
-    "qtdBookings": 4,
-    "qtdConfirmations": 4
+    "x": 4,
+    "y": 4
   },
   {
-    "qtdBookings": 0,
-    "qtdConfirmations": 0
+    "x": 0,
+    "y": 0
   }
 ]
